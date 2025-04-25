@@ -51,6 +51,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadia-hossain-297993251/)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sadia21121)  
+[![CV](https://img.shields.io/badge/Resume-20BEFF?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/14phPdbKP8lb02Sr5WIR_UKS81d5BtpT3/view?usp=sharing)  
+
 
 ---
 
