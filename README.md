@@ -38,9 +38,11 @@
 - 🩺 [**Type 2 Diabetes Risk Prediction**](https://www.kaggle.com/code/sadia21121/type-2-diabetes-risk-prediction)  
   Classification model using clinical and lifestyle data for early diagnosis support.
 
+- 🩺 [**Stroke Risk Prediction**](https://www.kaggle.com/code/sadia21121/stroke-risk-prediction)  
+  Classification model using clinical and lifestyle data for early stroke prediction and handling imbalanced dataset.
 ---
 
-### 📚 Recent Publications
+### 📚 Publications
 
 - 🧠 *Enhancing Early Diagnosis of Diabetes with ML & Image Processing* – [IEEE](https://ieeexplore.ieee.org/document/10912889)  
 - 🔐 *Strategies for Effective Malware Detection Using ML* – [IEEE](https://ieeexplore.ieee.org/document/10797025)
